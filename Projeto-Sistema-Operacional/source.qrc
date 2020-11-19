@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="sacoma">
+    <file>sacoma.jpg</file>
+  </qresource>
+</RCC>
